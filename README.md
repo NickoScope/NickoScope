@@ -27,7 +27,7 @@ synthesis** — a real glowing vector display, no pixels. *Open hardware, in act
 |---|---|
 | 🏠 **[nickol-knx-mcp](https://github.com/NickoScope/nickol-knx-mcp)** | Design-time **KNX / ETS6 assistant as an MCP server** (25 tools) — parses `.knxproj`, validates (DPT · naming · status · Secure · Matter), repairs, decomposes devices, diffs & grades, and generates Home Assistant YAML, ETS exports, an as-built handover pack & KNX IoT. Ships an ops-companion skill (`ha-git-backup`). No live bus access |
 | ⚡ **[in9-spectrum-analyzer](https://github.com/NickoScope/in9-spectrum-analyzer)** | 8-channel audio **spectrum analyzer on IN-9 nixie bargraph tubes**, driven by an ESP32-S3 |
-| 🎚️ **[esphome-nickohome_atom-voices3r-led](https://github.com/NickoScope/esphome-nickohome_atom-voices3r-led)** | Audio-reactive WS2812 LEDs + Home Assistant media player + Westminster clock for the M5Stack Atom VoiceS3R (ESPHome) |
+| 🎚️ **[esphome-nickohome_atom-voices3r-led](https://github.com/NickoScope/esphome-nickohome_atom-voices3r-led)** | Audio-reactive WS2812 LEDs + Home Assistant media player + push-to-talk voice assistant + Westminster clock for the M5Stack Atom VoiceS3R (ESPHome) |
 | 📱 **[nickoscope-mini](https://github.com/NickoScope/nickoscope-mini)** | Telegram Mini App front-end for the NickoScope32 vector CRT clock |
 
 ### 🛠️ Tech & tools
