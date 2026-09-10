@@ -45,6 +45,17 @@ synthesis** — a real glowing vector display, no pixels. *Open hardware, in act
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
+### 🤖 Built with Claude
+
+[![Claude tokens](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNickoScope%2FNickoScope%2Fmain%2Fclaude-tokens.json&cacheSeconds=3600)](https://github.com/NickoScope/NickoScope/blob/main/claude-tokens.json)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+Counted from local Claude Code session transcripts by
+[`tools/claude_tokens.py`](tools/claude_tokens.py) — the total across output, fresh input and
+cache. Cache reads dominate it by two orders of magnitude, so read it as *tokens processed*,
+not as *words written*; the split is in
+[`claude-tokens.json`](claude-tokens.json).
+
 **Domains:** KNX & building automation · AI-assisted engineering (MCP/LLM toolchains) · analog electronics · CRT vector graphics · nixie & vintage display tubes · oscilloscopes · embedded firmware · Home Assistant · PCB design · 3D-printed enclosures
 
 ### 💬 Ask me about
