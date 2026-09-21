@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "label": "Claude tokens",
-  "message": "33.7B",
+  "message": "34.3B",
   "color": "D97757",
   "labelColor": "1a1a1a",
   "style": "flat",
   "_breakdown": {
-    "output": 73227339,
-    "input": 12767999,
-    "cache_write": 916372342,
-    "cache_read": 32694534304
+    "output": 74277250,
+    "input": 12776803,
+    "cache_write": 933360855,
+    "cache_read": 33316935179
   },
-  "_messages": 95572,
-  "_sessions": 1670
+  "_messages": 97106,
+  "_sessions": 1696
 }
